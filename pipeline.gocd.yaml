@@ -1,5 +1,5 @@
 pipelines:
-  Build:
+  Build_elfinder:
     group: elfinder
     label_template: "${repository[:8]}"
     materials:
